@@ -2,11 +2,12 @@
 
 ## Project setup
 ```
-npm install
+vue create 'project-name'
 ```
 
 ### Compiles and hot-reloads for development
 ```
+cd 'project-name'
 npm run serve
 ```
 
